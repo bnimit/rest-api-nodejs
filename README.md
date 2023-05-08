@@ -6,4 +6,4 @@ To start the app : `npm start`
 
 The App uses nodemon to auto update the server as changes are made.
 
-The Backend uses the PORT : 8081 for testing using POSTMAN
+The Backend uses the `PORT : 8081` for testing using POSTMAN
